@@ -1,4 +1,4 @@
-# ESTADISTICA API
+# CHISQ API
 
 This project provides an API to compute probabilities from the chi-square distribution using both SciPy and a pure-Python algorithm, with load testing setup using Locust.
 
